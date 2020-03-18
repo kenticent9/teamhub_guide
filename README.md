@@ -21,7 +21,7 @@ TeamHub is an IDE plugin that turns it into a collaborative space where you can 
 
 Follow the following steps to add your colleague to a new/existing GitHub repository.
 
-![3](https://github.com/kenticent9/teamhub_guide/blob/master/images/4.png)
+![3](https://github.com/kenticent9/teamhub_guide/blob/master/images/3.png)
 
 After you have done so, he will receive an email inviting him to add himself to the repository that he must accept.
 
