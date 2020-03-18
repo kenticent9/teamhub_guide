@@ -28,4 +28,4 @@ After you have done so, he will receive an email inviting him to add himself to 
 ### Final steps
 In the upper left panel, click on the VSC/Get from Version Control and selected the GitHub repository you worked with in the previous steps.
 
-![4](https://github.com/kenticent9/teamhub_guide/blob/master/images/4.png)
+![4]()
